@@ -10,7 +10,7 @@ where
 <img src="http://latex.codecogs.com/gif.latex?S_1(t),S_2(t)"/> 
 are the price of two stocks and follow
 
-<img src="http://latex.codecogs.com/gif.latex?\frac{dS_i(t)}{S_i(t)}=rdt+\sigma_idW_i(t)\quad i=1,2"/>
+<img src="http://latex.codecogs.com/gif.latex?\frac{dS_i(t)}{S_i(t)}=rdt+\sigma_idW_i(t)\,\,\, i=1,2"/>
 
 and
 
@@ -18,5 +18,5 @@ and
 
 Kirk's(1995) developed an approximation formula of the spread option. This report and code is used to evaluate the performance of this approximatation.
 
-Report:
+>Report:
 [Report pdf](Report.pdf)
